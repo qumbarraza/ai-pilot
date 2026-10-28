@@ -1,0 +1,11 @@
+{
+  "product": "AI Pilot",
+  "version": "1.0.0-rc.5",
+  "channel": "preview",
+  "platform": "Windows x64",
+  "published": "2026-10-28",
+  "download": "https://github.com/qumbarraza/ai-pilot/releases/download/v1.0.0-rc.5/AI-Pilot-Setup-1.0.0-rc.5-Windows-x64.exe",
+  "sha256": "cb0cb980554156b32e79499723a0dafd505ba232d06122ad0472088ba1a984b9",
+  "bytes": 114867526,
+  "signed": false
+}
